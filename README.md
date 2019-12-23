@@ -1,6 +1,6 @@
-# location_tracking
+# 位置追踪，运动轨迹
 
-> A Vue.js project
+> VUE 高德api
 
 ## Build Setup
 
@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+###  初级版本待更新...（2019-12-23）
